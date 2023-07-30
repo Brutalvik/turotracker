@@ -1,7 +1,7 @@
 import styles from "./App.module.css";
 
 const App = () => {
-  return <div className={styles.app}></div>;
+  return <div>test</div>;
 };
 
 export default App;
